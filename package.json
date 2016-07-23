@@ -1,0 +1,14 @@
+{
+  "name": "flip-args",
+  "version": "1.0.0",
+  "description": "Flip arguments of function",
+  "homepage": "https://github.com/vlas-ilya/flip-args",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vlas-ilya/flip-args.git"
+  },
+  "scripts": {
+    "test": "node test.js"
+  }
+}
